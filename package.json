@@ -1,0 +1,6 @@
+{
+  "name": "teraboxx-api",
+  "version": "1.0.0",
+  "main": "api/terabox.js",
+  "dependencies": {}
+}
